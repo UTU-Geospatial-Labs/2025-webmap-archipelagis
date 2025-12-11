@@ -7,7 +7,7 @@
 
 The map depicts how demographic change will affect access to health care services across municipalities. By comparing the elderly population in 2024 with projected changes in 2045, users can identify regions where health care demand may exceed capacity and where service gaps or pressure areas are likely to emerge. The solution responded to challenge provided by Lounaistieto.
 
-Eplore the map: [https://utu-geospatial-labs.github.io/2025-webmap-archipelagis/](https://utu-geospatial-labs.github.io/2025-webmap-archipelagis/)
+Explore the map: [https://utu-geospatial-labs.github.io/2025-webmap-archipelagis/](https://utu-geospatial-labs.github.io/2025-webmap-archipelagis/)
 
 
 ## Additional information
