@@ -1,6 +1,10 @@
 # Elderly population projections in South-West Finland
 
-**This webmap was created as MAAN7771 course work by Anna Dust, Minna Palm, Emil Taskinen and Tuomo Kähärä.**
+**This webmap was created as MAAN7771 course work by**
+**Anna Dust,**
+**Minna Palm,**
+**Emil Taskinen and**
+**Tuomo Kähärä.**
 
 The map depicts how demographic change will affect access to health care services across municipalities. By comparing the elderly population in 2024 with projected changes in 2045, users can identify regions where health care demand may exceed capacity and where service gaps or pressure areas are likely to emerge. The solution responded to challenge provided by Lounaistieto.
 
