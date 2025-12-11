@@ -1,6 +1,6 @@
 # Elderly population projections in South-West Finland
 
-**This webmap was created as MAAN7771 course work by:**
+**This webmap was created as MAAN7771 course work in 2025 by:**
 
 **Anna Dust, Minna Palm, Emil Taskinen and Tuomo Kähärä**
 
