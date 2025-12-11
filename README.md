@@ -1,4 +1,4 @@
-# Elderly population projections in South-West Finland
+# Elderly population projections in Southwest Finland
 
 **This webmap was created as MAAN7771 course work in 2025 by:**
 
